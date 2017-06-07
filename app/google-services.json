@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2231361147",
+    "project_id": "pushnotificationclient-406e8"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2231361147:android:1018729512e89713",
+        "android_client_info": {
+          "package_name": "com.ikubinfo.pushnotificationclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2231361147-lvigd4majobgjh139ulh0efk3smev2pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18KsN8OoSToRxlqw_NouPSyz1hhLf6go"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
